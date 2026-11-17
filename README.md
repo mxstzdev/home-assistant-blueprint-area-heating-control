@@ -1,5 +1,16 @@
 # Home Assistant Blueprint: Area Heating Control
 
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.**
+> Area Heating Control has moved to
+> [mxstzdev/home-assistant-blueprints](https://github.com/mxstzdev/home-assistant-blueprints/tree/main/blueprints/automation/area-heating-control),
+> where version 2.0 and all future releases are published.
+>
+> 2.0 is a rewrite with new input names and a new file name, so existing automations keep running on
+> 1.x until you switch. Follow the
+> [migration guide](https://github.com/mxstzdev/home-assistant-blueprints/blob/main/blueprints/automation/area-heating-control/docs/migration-to-v2.md)
+> to move one area at a time.
+
 Area based heating control blueprint for Home Assistant. 
 
 This blueprint is based on Home Assistants [Area Model](https://www.home-assistant.io/docs/organizing/areas/) and 
